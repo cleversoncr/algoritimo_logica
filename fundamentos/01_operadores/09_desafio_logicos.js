@@ -19,7 +19,7 @@ let false2 = 8 - 4 > 12 || false || 15 === '15';
 
 'Uma moto leva duas pessoas. Um carro com 5 pessoas poderia levar os ocupantes da moto?'
 let false3 = (moto + carro) < 5;
-let false4 = !(7 !== 7 || '3' !== 3);
+let false4 = !(7 !== 6 + 1 || '3' !== 3);
 
 console.log(false1);
 console.log(false2);
