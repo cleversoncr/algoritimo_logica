@@ -8,4 +8,4 @@ console.log(!!' ');
 
 console.log(!!1);
 console.log(!!0); // apenas o 0 é convertido para false
-console.log(!!-1); // todo numero será convertido para true
+console.log(!!-1); // todo número será convertido para true
