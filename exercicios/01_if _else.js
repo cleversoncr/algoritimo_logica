@@ -6,10 +6,10 @@ informados	valores	iguais)	e	escrever	o	maior	deles.
 
 const valor1 = 22;
 const valor2 = 16
-let maiorValor
+let valor
 
 if (valor1 > valor2) {
-  maiorValor = `O valor é ${valor1}!`;
-} else maiorValor = `O valor é ${valor2}`;
+  valor = valor1;
+} else valor = valor2;
 
-console.log(maiorValor);
+console.log(`O valor é ${valor}`);

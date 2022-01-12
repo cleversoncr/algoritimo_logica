@@ -6,14 +6,15 @@ ACESSO	PERMITIDO	caso	a	senha	seja	válida.
 ACESSO	NEGADO	caso	a	senha	seja	inválida.
 */
 
-const senha = 1234;
+const senha = 1237;
 const prova = 1234;
 let resultado;
 
 if (senha === prova) {
-  resultado = 'Acesso garantido!';
-} else { resultado = 'Senha incorreta!';
-  
+  resultado = 'ACESSO	PERMITIDO!';
+} else {
+  resultado = 'ACESSO NEGADO!';
+
 };
 
 console.log(resultado);
