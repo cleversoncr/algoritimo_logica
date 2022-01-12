@@ -13,5 +13,5 @@ executar(bomDia); // Para invocar a funcão é necessário tirar os (), pois ela
 
 
 /**
- * Dica de atalho -->> seleciona um trecho do código e precione CTRL + D e onde for igual, será selecionado tbm
+ * Dica de atalho -->> seleciona uma palavra no código e precione CTRL + D, onde for igual, também será selecionado.
  */
