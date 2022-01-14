@@ -14,6 +14,9 @@ numeros.forEach(function(_, i){ //o underline é uma forma caracteristica de que
 console.log(i);
 });
 
+// let y = [];
+
+// console.log(Array.isArray(y));
 
 // for(let n of numeros){
 //   console.log(n);
